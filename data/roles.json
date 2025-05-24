@@ -1,0 +1,22 @@
+{
+  "categories": {
+    "colors": {
+      "name": "Colors",
+      "rarity": "common",
+      "weight": 70,
+      "roles": []
+    },
+    "badges": {
+      "name": "Badges",
+      "rarity": "rare",
+      "weight": 0.25,
+      "roles": []
+    },
+    "misc": {
+      "name": "Miscellaneous",
+      "rarity": "epic",
+      "weight": 0.15,
+      "roles": []
+    }
+  }
+}

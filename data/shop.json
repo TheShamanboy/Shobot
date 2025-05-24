@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": "spin_1",
+      "name": "1 Spin",
+      "price": 50,
+      "type": "spins",
+      "quantity": 1,
+      "description": "Get 1 additional spin"
+    },
+    {
+      "id": "spin_5",
+      "name": "5 Spins",
+      "price": 200,
+      "type": "spins",
+      "quantity": 5,
+      "description": "Get 5 additional spins (20% discount!)"
+    },
+    {
+      "id": "xp_boost",
+      "name": "XP Boost",
+      "price": 100,
+      "type": "xp",
+      "quantity": 100,
+      "description": "Gain 100 XP instantly"
+    },
+    {
+      "id": "currency_pack",
+      "name": "Currency Pack",
+      "price": 150,
+      "type": "currency",
+      "quantity": 200,
+      "description": "Get 200 coins (33% bonus!)"
+    },
+    {
+      "id": "mega_currency_pack",
+      "name": "Mega Currency Pack",
+      "price": 1000,
+      "type": "currency",
+      "quantity": 30000,
+      "description": "Get 30,000 coins (massive bonus!)"
+    }
+  ]
+}

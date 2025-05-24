@@ -1,0 +1,38 @@
+{
+  "372678877023043585": {
+    "userId": "372678877023043585",
+    "currency": 106,
+    "xp": 0,
+    "spins": 0,
+    "lastDaily": 0,
+    "inventory": {
+      "colors": [],
+      "badges": [],
+      "misc": []
+    }
+  },
+  "788928365381681152": {
+    "userId": "788928365381681152",
+    "currency": 62,
+    "xp": 25,
+    "spins": 0,
+    "lastDaily": 1748110956624,
+    "inventory": {
+      "colors": [],
+      "badges": [],
+      "misc": []
+    }
+  },
+  "240528886264233984": {
+    "userId": "240528886264233984",
+    "currency": 203,
+    "xp": 25,
+    "spins": 0,
+    "lastDaily": 1748118820397,
+    "inventory": {
+      "colors": [],
+      "badges": [],
+      "misc": []
+    }
+  }
+}
